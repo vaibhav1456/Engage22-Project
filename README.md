@@ -15,6 +15,7 @@ Web Technologies
 python 
 
 Machine Learning Library In Python3
+
 Numpy , Pandas , streamlit ,pickle , ast ,nltk,request
 
 
@@ -31,14 +32,6 @@ Open terminal/cmd promt
 
 Goto that Path
 
-Example
-
-cd ~/Destop/Movie-Recommender-System
-
-
-
-cd Scripts
-then
 
 activate
 
@@ -58,5 +51,6 @@ streamlit run app.py
 
 Now open your browser and go to localhost address
 
+INSTRUCTIONS:
 
 Thank you for visiting my repository.
