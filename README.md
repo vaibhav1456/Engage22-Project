@@ -34,21 +34,29 @@ Goto that Path
 Example
 
 cd ~/Destop/Movie-Recommender-System
-Create a new virtual environment on that directory
+
 
 
 cd Scripts
 then
+
 activate
+
 To install Dependencies
 
 pip install -r requirements.txt
+
 Creating Local Server
+
 Goto src directory, example
 
 cd ../Movie-Recommender-System/src
-To run
+
+To run command:
 
 streamlit run app.py 
+
 Now open your browser and go to localhost address
+
+
 Thank you for visiting my repository.
