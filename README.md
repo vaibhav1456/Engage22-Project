@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 Creating Local Server
 
-Goto src directory, example
+Goto your folder directory where you download it, example
 
 cd ../Movie-Recommender-System/src
 
