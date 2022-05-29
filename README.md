@@ -26,7 +26,7 @@ pip3
 
 
 Setup to run
-Extract zip file in your computer
+Extract zip file in your system
 
 Open terminal/cmd promt
 
@@ -51,6 +51,6 @@ streamlit run app.py
 
 Now open your browser and go to localhost address
 
-INSTRUCTIONS:
+
 
 Thank you for visiting my repository.
