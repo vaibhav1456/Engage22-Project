@@ -24,7 +24,6 @@ python 3.6
 
 pip3
 
-
 Setup to run
 Extract zip file in your system
 
@@ -51,6 +50,13 @@ streamlit run app.py
 
 Now open your browser and go to localhost address
 
+Instruction:
+API Key ->
 
+website link : https://www.themoviedb.org/settings/api
+
+username : vaibhav1918
+
+password : jain1918
 
 Thank you for visiting my repository.
